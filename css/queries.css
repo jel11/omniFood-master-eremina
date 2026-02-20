@@ -91,6 +91,7 @@
 
   .hero-img {
     width: 60%;
+    max-height: 42rem;
   }
 
   .delivered-meals {
@@ -274,6 +275,7 @@
 
   .hero-img {
     width: 80%;
+    max-height: 36rem;
   }
 
   .logos img {
